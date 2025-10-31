@@ -1,10 +1,7 @@
-Goldbach’s conjecture proven
-By Wadï Mami
-Email : wmami@steg.com.tn / didipostman77@gmail.com
-Date : 30/10/2025
-
 Goldbach's conjecture is one of the oldest and best-known unsolved problems in number theory and all of mathematics. It states that every even natural number greater than 2 is the sum of two prime numbers.
+
 ----------------------------------------------------------------------------------------------
+
 A prime number must be an odd number
 
 The sum of 2 odd numbers is an even number
@@ -19,12 +16,22 @@ Erdös Theorem : For every integer n > 1, it exists always a prime number betwee
 
 By récurrence of Erdös Theorem mentioned above and (A)
 
-There is always k integer which is the sum of two prime numbers p and q. (B)
+There is always k even number which is the sum of two prime numbers p and q. (B)
 
 
-We can state then every even natural number greater than 2 is the sum of 2 prime numbers
+p for k                         k <= p < =2k (i)
 
-(what needed to be demonstrated) 
 
-Goldbach’s conjecture proven.
+q for k/2                    k / 2<= q <= k (j)
 
+(i) + (j)                 k + k /2 <= p+q <= 3k ie
+
+
+                              3k/2 <= p+q <= 3k  wich implies 
+
+
+(B) sum p+q is an even number  because  p+q = 3k  or p+q = 2k and k is even then by correlation
+
+We can state (A) and (B) every even natural number greater than 2 is the sum of 2 prime numbers
+
+(what needed to be demonstrated) Goldbach’s conjecture proven
